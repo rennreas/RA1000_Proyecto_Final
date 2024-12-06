@@ -1,11 +1,18 @@
 # RA1000_Proyecto_Final
 Durante este semestre tuve la oportunidad de trabajar en un proyecto que me permitió profundizar en el mundo de la programación en Python. Este proyecto lo realizamos a lo largo del curso de la materia Álgebra Lineal en donde utilizamos 3 distintos notebooks para la practica y demostración de nuestros conocimientos y habilidades. Cada una de estas practicas la realizamos utilizando la plataforma de Google Colab, y en la cual logramos abordar distintos aspectos de progamación y de matemáticas. Estos "notebooks" se centran en el uso de la biblioteca NumPy para configurar objetos, variables y operaciones, en la eliminación gaussiana y la resolución de ecuaciones. 
+
+
 Primer notebook: Creación de Objetos, Variables y Operaciones en Python
 El primer notebook que realizamos en el semestre se centró en los conocimientos básicos del uso y manejo de Python. Esta parte la considero como fundamental para lograr establecer una base sólida en el mundo de la programación y la manipulación de datos. En este notebook apredimos de distintos conceptos como lo son: objetos (números, strings, listas, arreglos) y los atributos de dichos objetos. Este primer notebook nos ayudo a entender las bases de codificación. Ademas de esto, aprendimos sobre las distinas formas de escribir en Google Colab, como lo son por medio de código o texto, al igual que como poner titulos, subtitulos o texto normal. Esta practica me ayudo a estructurar y organizar el código de manera eficiente. Al igual que aprendimos a desarrollar operaciones matemáticas y lógicas.
+
+
 Segundo notebook: Eliminación de Gauss
 Este proyecto se enfoco en un método fundamental (el cual inicialmente aprendimos a hacer de manera manual en el salon de clases) para el álgebra lineal, el cual nos ayudo a resolver sistemas de ecuaciones de tipo lineales. Con el Google Colab, logre implementar el algoritmo de eliminación de Gauss en Python, este es un método que nos ayuda a convertir una matriz de coeficientes en una forma escalonada. La implementación del método de Gauss me ayudo a comprender mejor cómo los algortimos numéricos funcionan, y como estos se pueden aplicar de manera manual y traduciendolos a código en Python. Para este bloque, me ayudo mucho entender lo que hicimos en el primer proyecto, ya que se aplicaron esos conocimientos base para la organización de mi trabajo.   
+
+
 Tercer notebook: resolución de ecuaciones utilizando la librería NumPy. 
 NumPy es una herramienta que aprendimos al uso de Python, esta nos ayuda con datos numéricos y con la manipulación de matrices. En esta parte, utilice la herramienta de NumPy para resover sistemas de ecuaciones lineales de una manera más eficiente y rapida.  
+
 
 Este proyecto lo considero como una experiencia muy importante para mi proceso de aprendizaje en la carrera de Business & Management, ya que me logré generar conocimientos de progamación y de resolución de problemas matemáticos utilizando programas como lo es: Python. Por medio del uso de creación de objetos, y resolución de operaciones en Python, logre implementar tecnicas como lo son la "eliminación de Gauss" y la resolución de ecuaciones, las cuales son escenciales aprender su manejo para el desarrolo de habilidades clave que serán fundamentales en mi carrera académica y profesional. 
 La combinación de teoría y práctica en estos proyectos me ayudó a comprender mejor de los conceptos, y a poder aplicarlos de la manera más eficiente en el mundo de la programación. Además, de que fue una gran herramienta el aprendizaje de la plataforma de Google Colab, ya que esta es una que facilita la realización de problemas computacionales, haciendo su resolución más rapida. 
